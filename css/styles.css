@@ -55,6 +55,13 @@ main > .tagline {
   font-weight: 100;
 }
 
+main > .centered-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 .icons-social i {
   padding: 10px;
 }
